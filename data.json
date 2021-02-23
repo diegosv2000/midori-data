@@ -1,0 +1,62 @@
+[
+  {
+    "code": "20180477H",
+    "name": "ANDRES MIGUEL",
+    "lname": "VALLEJO GALVEZ",
+    "gender": "MASCULINO",
+    "specialty": "INGENIERÍA GEOLÓGICA",
+    "condition": "ESTUDIANTE",
+    "faculty": "INGENIERÍA GEOLÓGICA, MINERA Y METALÚRGICA",
+    "photo": "https://s.yimg.com/uu/api/res/1.2/CJPwssIdzih0a2W4B6FBxg--~B/aD03MDA7dz03MDA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/82f09e36d36dc1ee7ffc20f1effb53d0"
+  },
+  {
+    "code": "20143254F",
+    "name": "CARLOS JAVIER",
+    "lname": "SOTO RAMIREZ",
+    "gender": "MASCULINO",
+    "specialty": "INGENIERÍA CIVIL",
+    "condition": "ESTUDIANTE",
+    "faculty": "INGENIERÍA CIVIL",
+    "photo": "https://grupotaanahkuh.com.mx/wp-content/uploads/2019/11/78.jpg"
+  },
+  {
+    "code": "20130475G",
+    "name": "MARIA FERNANDA",
+    "lname": "VARGAS RODRIGUEZ",
+    "gender": "FEMENINO",
+    "specialty": "INGENIERÍA MECATRÓNICA",
+    "condition": "ESTUDIANTE",
+    "faculty": "INGENIERÍA MECÁNICA",
+    "photo": "https://www.fastcontributi.it/img/mock/1.jpg"
+  },
+  {
+    "code": "20195245A",
+    "name": "RENATO MANUEL",
+    "lname": "OCAÑA PAJUELO",
+    "gender": "FEMENINO",
+    "specialty": "INGENIERÍA MECATRÓNICA",
+    "condition": "ESTUDIANTE",
+    "faculty": "INGENIERÍA MECÁNICA",
+    "photo": "https://vicharkness.co.uk/wp-content/uploads/2019/03/aiface.png"
+  },
+  {
+    "code": "20163254J",
+    "name": "XIMENA JHENIFER",
+    "lname": "GUERRERO GUTIERREZ",
+    "gender": "FEMENINO",
+    "specialty": "INGENIERÍA MECATRÓNICA",
+    "condition": "ESTUDIANTE",
+    "faculty": "INGENIERÍA MECÁNICA",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Woman_7.jpg"
+  },
+  {
+    "code": "20104255k",
+    "name": "JUAN CARLOS",
+    "lname": "VALVERDE BAZÁN",
+    "gender": "MASCULINO",
+    "specialty": "INGENIERÍA CIVIL",
+    "condition": "ESTUDIANTE",
+    "faculty": "CIVIL",
+    "photo": "https://i.imgur.com/KSrujp9.jpg"
+  }
+]
